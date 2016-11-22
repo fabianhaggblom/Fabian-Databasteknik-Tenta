@@ -10,6 +10,8 @@ namespace Tenta_Databasteknik
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("TENTA-DATABASTEKnik");
+            Console.ReadLine();
         }
     }
 }
