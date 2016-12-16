@@ -1,0 +1,5 @@
+C:\Users\Fabian\Source\Repos\Fabian-Databasteknik-Tenta\Tenta-DatabasteknikSQL\bin\Debug\Tenta-DatabasteknikSQL.dacpac
+C:\Users\Fabian\Source\Repos\Fabian-Databasteknik-Tenta\Tenta-DatabasteknikSQL\bin\Debug\Tenta_DatabasteknikSQL.dll
+C:\Users\Fabian\Source\Repos\Fabian-Databasteknik-Tenta\Tenta-DatabasteknikSQL\bin\Debug\Tenta_DatabasteknikSQL.pdb
+C:\Users\Fabian\Source\Repos\Fabian-Databasteknik-Tenta\Tenta-DatabasteknikSQL\obj\Debug\Tenta_DatabasteknikSQL.dll
+C:\Users\Fabian\Source\Repos\Fabian-Databasteknik-Tenta\Tenta-DatabasteknikSQL\obj\Debug\Tenta_DatabasteknikSQL.pdb

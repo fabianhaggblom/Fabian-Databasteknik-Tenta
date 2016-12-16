@@ -1,1 +1,13 @@
 C:\Users\Fabian\Source\Repos\Fabian-Databasteknik-Tenta\Tenta-Databasteknik\bin\Debug\Tenta-Databasteknik.exe.config
+C:\Users\Fabian\Source\Repos\Fabian-Databasteknik-Tenta\Tenta-Databasteknik\bin\Debug\Tenta-Databasteknik.exe
+C:\Users\Fabian\Source\Repos\Fabian-Databasteknik-Tenta\Tenta-Databasteknik\bin\Debug\Tenta-Databasteknik.pdb
+C:\Users\Fabian\Source\Repos\Fabian-Databasteknik-Tenta\Tenta-Databasteknik\bin\Debug\EntityFramework.dll
+C:\Users\Fabian\Source\Repos\Fabian-Databasteknik-Tenta\Tenta-Databasteknik\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fabian\Source\Repos\Fabian-Databasteknik-Tenta\Tenta-Databasteknik\bin\Debug\EntityFramework.xml
+C:\Users\Fabian\Source\Repos\Fabian-Databasteknik-Tenta\Tenta-Databasteknik\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fabian\Source\Repos\Fabian-Databasteknik-Tenta\Tenta-Databasteknik\obj\Debug\Tenta-Databasteknik.csprojResolveAssemblyReference.cache
+C:\Users\Fabian\Source\Repos\Fabian-Databasteknik-Tenta\Tenta-Databasteknik\obj\Debug\Tenta-Databasteknik.exe
+C:\Users\Fabian\Source\Repos\Fabian-Databasteknik-Tenta\Tenta-Databasteknik\obj\Debug\Tenta-Databasteknik.pdb
+C:\Users\haggb\Desktop\SQL\Fabian-Databasteknik-FörstaTentan\Tenta-Databasteknik\bin\Debug\Tenta-Databasteknik.exe.config
+C:\Users\haggb\Desktop\SQL\Fabian-Databasteknik-FörstaTentan\Tenta-Databasteknik\obj\Debug\Tenta-Databasteknik.exe
+C:\Users\haggb\Desktop\SQL\Fabian-Databasteknik-FörstaTentan\Tenta-Databasteknik\obj\Debug\Tenta-Databasteknik.pdb

@@ -57,5 +57,14 @@
   <Import Condition="'$(SQLDBExtensionsRefPath)' == ''" Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)\SSDT\Microsoft.Data.Tools.Schema.SqlTasks.targets" />
   <ItemGroup>
     <Folder Include="Properties" />
+    <Folder Include="Models" />
+  </ItemGroup>
+  <ItemGroup>
+    <Build Include="Models\CountCategories.sql" />
+    <Build Include="Models\MyCoolTable.sql" />
+    <Build Include="Models\AddTerritory.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="Tenta-DatabasteknikSQL.refactorlog" />
   </ItemGroup>
 </Project>

@@ -1,0 +1,7 @@
+﻿--FRÅGA 7
+CREATE TABLE [dbo].[MyCoolTable]
+(
+	[ID] INT NOT NULL PRIMARY KEY, 
+    [CoolTitle] VARCHAR(25) NULL
+	INSERT INTO dbo.NORTHWND;
+)
